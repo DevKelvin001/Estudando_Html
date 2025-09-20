@@ -5,6 +5,10 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 /* Variables Custom */
 :root {
     --primary-color: #00a2ff;
