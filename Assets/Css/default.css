@@ -1,0 +1,12 @@
+/* Settings Dafault */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Variables Custom */
+:root {
+    --primary-color: #00a2ff;
+    --secundary-color: #00ffdd;
+}
